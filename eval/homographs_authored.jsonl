@@ -1,0 +1,285 @@
+{"id": "حمام_bathroom_1", "text": "الحمام اللي فوق الميه فيه مقطوعة من الصبح.", "target": "الحمام", "sense": "bathroom", "reading": "الحَمَّام", "other_reading": "الحَمَام", "checks": [["م", "shadda"]]}
+{"id": "حمام_bathroom_2", "text": "ادخل خد حمام سخن وانت هتفوق.", "target": "حمام", "sense": "bathroom", "reading": "حَمَّام", "other_reading": "حَمَام", "checks": [["م", "shadda"]]}
+{"id": "حمام_bathroom_3", "text": "الشقة فيها أوضتين وحمام ومطبخ صغير.", "target": "وحمام", "sense": "bathroom", "reading": "وحَمَّام", "other_reading": "وحَمَام", "checks": [["م", "shadda"]]}
+{"id": "حمام_pigeons_1", "text": "البلكونة اتملت حمام!", "target": "حمام", "sense": "pigeons", "reading": "حَمَام", "other_reading": "حَمَّام", "checks": [["م", "no_shadda"]]}
+{"id": "حمام_pigeons_2", "text": "جدي كان بيربي حمام على السطح.", "target": "حمام", "sense": "pigeons", "reading": "حَمَام", "other_reading": "حَمَّام", "checks": [["م", "no_shadda"]]}
+{"id": "حمام_pigeons_3", "text": "أكلنا حمام محشي فريك عند خالتي.", "target": "حمام", "sense": "pigeons", "reading": "حَمَام", "other_reading": "حَمَّام", "checks": [["م", "no_shadda"]]}
+{"id": "السنة_year_1", "text": "السنة دي عدت بسرعة أوي.", "target": "السنة", "sense": "year", "reading": "السَّنَة", "other_reading": "السُّنَّة", "checks": [["س", "fatha"], ["ن", "no_shadda"]]}
+{"id": "السنة_year_2", "text": "إن شاء الله السنة الجاية هنسافر.", "target": "السنة", "sense": "year", "reading": "السَّنَة", "other_reading": "السُّنَّة", "checks": [["س", "fatha"], ["ن", "no_shadda"]]}
+{"id": "السنة_year_3", "text": "دفعت مصاريف المدرسة عن السنة كلها.", "target": "السنة", "sense": "year", "reading": "السَّنَة", "other_reading": "السُّنَّة", "checks": [["س", "fatha"], ["ن", "no_shadda"]]}
+{"id": "السنة_sunnah_1", "text": "الشيخ قال إن ده من السنة النبوية.", "target": "السنة", "sense": "sunnah", "reading": "السُّنَّة", "other_reading": "السَّنَة", "checks": [["س", "damma"], ["ن", "shadda"]]}
+{"id": "السنة_sunnah_2", "text": "صلاة الضحى من السنة مش فرض.", "target": "السنة", "sense": "sunnah", "reading": "السُّنَّة", "other_reading": "السَّنَة", "checks": [["س", "damma"], ["ن", "shadda"]]}
+{"id": "السنة_sunnah_3", "text": "اتبع السنة في الأكل وكل بإيدك اليمين.", "target": "السنة", "sense": "sunnah", "reading": "السُّنَّة", "other_reading": "السَّنَة", "checks": [["س", "damma"], ["ن", "shadda"]]}
+{"id": "عالم_world_1", "text": "حاسس إني عايش في عالم تاني خالص.", "target": "عالم", "sense": "world", "reading": "عَالَم", "other_reading": "عَالِم", "checks": [["ل", "fatha"]]}
+{"id": "عالم_world_2", "text": "كأس العالم الجاية هتبقى في ثلاث دول.", "target": "العالم", "sense": "world", "reading": "العَالَم", "other_reading": "العَالِم", "checks": [["ل", "fatha"]]}
+{"id": "عالم_world_3", "text": "النت فتح لنا عالم كبير من المعلومات.", "target": "عالم", "sense": "world", "reading": "عَالَم", "other_reading": "عَالِم", "checks": [["ل", "fatha"]]}
+{"id": "عالم_scientist_1", "text": "ابني نفسه يبقى عالم فضاء.", "target": "عالم", "sense": "scientist", "reading": "عَالِم", "other_reading": "عَالَم", "checks": [["ل", "kasra"]]}
+{"id": "عالم_scientist_2", "text": "أحمد زويل كان عالم مصري عظيم.", "target": "عالم", "sense": "scientist", "reading": "عَالِم", "other_reading": "عَالَم", "checks": [["ل", "kasra"]]}
+{"id": "عالم_scientist_3", "text": "قابلت عالم آثار شغال في الأقصر.", "target": "عالم", "sense": "scientist", "reading": "عَالِم", "other_reading": "عَالَم", "checks": [["ل", "kasra"]]}
+{"id": "رجل_man_1", "text": "جه رجل كبير في السن يسأل عليك.", "target": "رجل", "sense": "man", "reading": "رَجُل", "other_reading": "رِجْل", "checks": [["ر", "fatha"], ["ج", "damma"]]}
+{"id": "رجل_man_2", "text": "المسلسل بيحكي عن رجل أعمال اتسجن.", "target": "رجل", "sense": "man", "reading": "رَجُل", "other_reading": "رِجْل", "checks": [["ر", "fatha"], ["ج", "damma"]]}
+{"id": "رجل_man_3", "text": "كان رجل محترم وكلمته واحدة.", "target": "رجل", "sense": "man", "reading": "رَجُل", "other_reading": "رِجْل", "checks": [["ر", "fatha"], ["ج", "damma"]]}
+{"id": "رجل_leg_1", "text": "اتخبطت في رجل الترابيزة.", "target": "رجل", "sense": "leg", "reading": "رِجْل", "other_reading": "رَجُل", "checks": [["ر", "kasra"], ["ج", "sukun"]]}
+{"id": "رجل_leg_2", "text": "الكرسي ده رجل منه مكسورة.", "target": "رجل", "sense": "leg", "reading": "رِجْل", "other_reading": "رَجُل", "checks": [["ر", "kasra"], ["ج", "sukun"]]}
+{"id": "رجل_leg_3", "text": "عنده ألم في رجل واحدة بس.", "target": "رجل", "sense": "leg", "reading": "رِجْل", "other_reading": "رَجُل", "checks": [["ر", "kasra"], ["ج", "sukun"]]}
+{"id": "كتب_books_1", "text": "عندي كتب كتير مش لاقي لها مكان.", "target": "كتب", "sense": "books", "reading": "كُتُب", "other_reading": "كَتَب", "checks": [["ك", "damma"], ["ت", "damma"]]}
+{"id": "كتب_books_2", "text": "اشتريت كتب المدرسة من معرض الكتاب.", "target": "كتب", "sense": "books", "reading": "كُتُب", "other_reading": "كَتَب", "checks": [["ك", "damma"], ["ت", "damma"]]}
+{"id": "كتب_books_3", "text": "الأوضة مليانة كتب قديمة.", "target": "كتب", "sense": "books", "reading": "كُتُب", "other_reading": "كَتَب", "checks": [["ك", "damma"], ["ت", "damma"]]}
+{"id": "كتب_wrote_1", "text": "هو كتب الجواب وبعته بالبريد.", "target": "كتب", "sense": "wrote", "reading": "كَتَب", "other_reading": "كُتُب", "checks": [["ك", "fatha"], ["ت", "fatha"]]}
+{"id": "كتب_wrote_2", "text": "مين اللي كتب الكلام ده على الحيطة؟", "target": "كتب", "sense": "wrote", "reading": "كَتَب", "other_reading": "كُتُب", "checks": [["ك", "fatha"], ["ت", "fatha"]]}
+{"id": "كتب_wrote_3", "text": "كتب اسمه غلط في الاستمارة.", "target": "كتب", "sense": "wrote", "reading": "كَتَب", "other_reading": "كُتُب", "checks": [["ك", "fatha"], ["ت", "fatha"]]}
+{"id": "خلص_ended_1", "text": "الفيلم خلص بدري عن ما كنت متوقع.", "target": "خلص", "sense": "ended", "reading": "خِلِص", "other_reading": "خَلَّص", "checks": [["خ", "kasra"], ["ل", "no_shadda"]]}
+{"id": "خلص_ended_2", "text": "الأكل خلص ولازم ننزل نشتري.", "target": "خلص", "sense": "ended", "reading": "خِلِص", "other_reading": "خَلَّص", "checks": [["خ", "kasra"], ["ل", "no_shadda"]]}
+{"id": "خلص_ended_3", "text": "الشحن خلص والموبايل فصل.", "target": "خلص", "sense": "ended", "reading": "خِلِص", "other_reading": "خَلَّص", "checks": [["خ", "kasra"], ["ل", "no_shadda"]]}
+{"id": "خلص_finished_it_1", "text": "خلص الشغل بتاعك الأول وبعدين العب.", "target": "خلص", "sense": "finished_it", "reading": "خَلَّص", "other_reading": "خِلِص", "checks": [["خ", "fatha"], ["ل", "shadda"]]}
+{"id": "خلص_finished_it_2", "text": "هو خلص المشروع قبل الميعاد بيومين.", "target": "خلص", "sense": "finished_it", "reading": "خَلَّص", "other_reading": "خِلِص", "checks": [["خ", "fatha"], ["ل", "shadda"]]}
+{"id": "خلص_finished_it_3", "text": "خلص واجبك وتعالى نتفرج.", "target": "خلص", "sense": "finished_it", "reading": "خَلَّص", "other_reading": "خِلِص", "checks": [["خ", "fatha"], ["ل", "shadda"]]}
+{"id": "مركز_center_1", "text": "روحت مركز الشباب ألعب كورة.", "target": "مركز", "sense": "center", "reading": "مَرْكَز", "other_reading": "مِرَكِّز", "checks": [["م", "fatha"], ["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "مركز_center_2", "text": "العربية محتاجة تروح مركز الصيانة.", "target": "مركز", "sense": "center", "reading": "مَرْكَز", "other_reading": "مِرَكِّز", "checks": [["م", "fatha"], ["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "مركز_center_3", "text": "فيه مركز تدريب جديد جنب البيت.", "target": "مركز", "sense": "center", "reading": "مَرْكَز", "other_reading": "مِرَكِّز", "checks": [["م", "fatha"], ["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "مركز_focused_1", "text": "أنا مش مركز خالص النهارده.", "target": "مركز", "sense": "focused", "reading": "مِرَكِّز", "other_reading": "مَرْكَز", "checks": [["م", "kasra"], ["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "مركز_focused_2", "text": "هو مركز في المذاكرة ومش بيرد على حد.", "target": "مركز", "sense": "focused", "reading": "مِرَكِّز", "other_reading": "مَرْكَز", "checks": [["م", "kasra"], ["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "مركز_focused_3", "text": "خليك مركز في الطريق وانت سايق.", "target": "مركز", "sense": "focused", "reading": "مِرَكِّز", "other_reading": "مَرْكَز", "checks": [["م", "kasra"], ["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "ذكر_male_1", "text": "الدكتور قال إن البيبي ذكر.", "target": "ذكر", "sense": "male", "reading": "ذَكَر", "other_reading": "ذِكْر", "checks": [["ذ", "fatha"], ["ك", "fatha"]]}
+{"id": "ذكر_male_2", "text": "القطة ولدت ثلاثة، اتنين ذكر وواحدة أنثى.", "target": "ذكر", "sense": "male", "reading": "ذَكَر", "other_reading": "ذِكْر", "checks": [["ذ", "fatha"], ["ك", "fatha"]]}
+{"id": "ذكر_male_3", "text": "في الاستمارة اختار ذكر أو أنثى.", "target": "ذكر", "sense": "male", "reading": "ذَكَر", "other_reading": "ذِكْر", "checks": [["ذ", "fatha"], ["ك", "fatha"]]}
+{"id": "ذكر_mention_1", "text": "بعد الصلاة قعدنا في ذكر وتسبيح.", "target": "ذكر", "sense": "mention", "reading": "ذِكْر", "other_reading": "ذَكَر", "checks": [["ذ", "kasra"], ["ك", "sukun"]]}
+{"id": "ذكر_mention_2", "text": "ما جاش ذكر اسمك في الاجتماع خالص.", "target": "ذكر", "sense": "mention", "reading": "ذِكْر", "other_reading": "ذَكَر", "checks": [["ذ", "kasra"], ["ك", "sukun"]]}
+{"id": "ذكر_mention_3", "text": "مجلس ذكر في الجامع كل خميس.", "target": "ذكر", "sense": "mention", "reading": "ذِكْر", "other_reading": "ذَكَر", "checks": [["ذ", "kasra"], ["ك", "sukun"]]}
+{"id": "شعر_hair_1", "text": "عندها شعر أسود طويل.", "target": "شعر", "sense": "hair", "reading": "شَعْر", "other_reading": "شِعْر", "checks": [["ش", "fatha"]]}
+{"id": "شعر_hair_2", "text": "البنت دي شعر راسها كيرلي.", "target": "شعر", "sense": "hair", "reading": "شَعْر", "other_reading": "شِعْر", "checks": [["ش", "fatha"]]}
+{"id": "شعر_hair_3", "text": "لقيت شعر في الأكل!", "target": "شعر", "sense": "hair", "reading": "شَعْر", "other_reading": "شِعْر", "checks": [["ش", "fatha"]]}
+{"id": "شعر_poetry_1", "text": "بحب أقرا شعر صلاح جاهين.", "target": "شعر", "sense": "poetry", "reading": "شِعْر", "other_reading": "شَعْر", "checks": [["ش", "kasra"]]}
+{"id": "شعر_poetry_2", "text": "هو بيكتب شعر عامية حلو جدًا.", "target": "شعر", "sense": "poetry", "reading": "شِعْر", "other_reading": "شَعْر", "checks": [["ش", "kasra"]]}
+{"id": "شعر_poetry_3", "text": "حفظت بيت شعر للامتحان.", "target": "شعر", "sense": "poetry", "reading": "شِعْر", "other_reading": "شَعْر", "checks": [["ش", "kasra"]]}
+{"id": "صدق_believed_1", "text": "ما حدش صدق الحكاية دي.", "target": "صدق", "sense": "believed", "reading": "صَدَّق", "other_reading": "صِدْق", "checks": [["ص", "fatha"], ["د", "shadda"]]}
+{"id": "صدق_believed_2", "text": "ما حدش صدق إنه نجح.", "target": "صدق", "sense": "believed", "reading": "صَدَّق", "other_reading": "صِدْق", "checks": [["ص", "fatha"], ["د", "shadda"]]}
+{"id": "صدق_believed_3", "text": "هو صدق كل كلمة قالتها.", "target": "صدق", "sense": "believed", "reading": "صَدَّق", "other_reading": "صِدْق", "checks": [["ص", "fatha"], ["د", "shadda"]]}
+{"id": "صدق_truth_1", "text": "الصدق أهم حاجة في أي علاقة.", "target": "الصدق", "sense": "truth", "reading": "الصِدْق", "other_reading": "الصَدَّق", "checks": [["ص", "kasra"], ["د", "no_shadda"]]}
+{"id": "صدق_truth_2", "text": "اتكلم بصدق ومن غير لف ودوران.", "target": "بصدق", "sense": "truth", "reading": "بصِدْق", "other_reading": "بصَدَّق", "checks": [["ص", "kasra"], ["د", "no_shadda"]]}
+{"id": "صدق_truth_3", "text": "عرفت صدق كلامه بعد ما شفت بعيني.", "target": "صدق", "sense": "truth", "reading": "صِدْق", "other_reading": "صَدَّق", "checks": [["ص", "kasra"], ["د", "no_shadda"]]}
+{"id": "فكر_thought_n_1", "text": "الكتاب ده بيغير فكر الواحد.", "target": "فكر", "sense": "thought_n", "reading": "فِكْر", "other_reading": "فَكَّر", "checks": [["ف", "kasra"], ["ك", "no_shadda"]]}
+{"id": "فكر_thought_n_2", "text": "عنده فكر مختلف عن جيلنا.", "target": "فكر", "sense": "thought_n", "reading": "فِكْر", "other_reading": "فَكَّر", "checks": [["ف", "kasra"], ["ك", "no_shadda"]]}
+{"id": "فكر_thought_n_3", "text": "التعليم بيبني فكر الطفل.", "target": "فكر", "sense": "thought_n", "reading": "فِكْر", "other_reading": "فَكَّر", "checks": [["ف", "kasra"], ["ك", "no_shadda"]]}
+{"id": "فكر_thought_v_1", "text": "فكر كويس قبل ما ترد عليه.", "target": "فكر", "sense": "thought_v", "reading": "فَكَّر", "other_reading": "فِكْر", "checks": [["ف", "fatha"], ["ك", "shadda"]]}
+{"id": "فكر_thought_v_2", "text": "هو فكر يسيب الشغل ويسافر.", "target": "فكر", "sense": "thought_v", "reading": "فَكَّر", "other_reading": "فِكْر", "checks": [["ف", "fatha"], ["ك", "shadda"]]}
+{"id": "فكر_thought_v_3", "text": "فكر معايا نعمل إيه في المشكلة دي.", "target": "فكر", "sense": "thought_v", "reading": "فَكَّر", "other_reading": "فِكْر", "checks": [["ف", "fatha"], ["ك", "shadda"]]}
+{"id": "رجع_came_back_1", "text": "أبويا رجع من الشغل متأخر.", "target": "رجع", "sense": "came_back", "reading": "رِجِع", "other_reading": "رَجَّع", "checks": [["ر", "kasra"], ["ج", "no_shadda"]]}
+{"id": "رجع_came_back_2", "text": "الواد رجع من المدرسة جعان.", "target": "رجع", "sense": "came_back", "reading": "رِجِع", "other_reading": "رَجَّع", "checks": [["ر", "kasra"], ["ج", "no_shadda"]]}
+{"id": "رجع_came_back_3", "text": "رجع البيت لقى الباب مفتوح.", "target": "رجع", "sense": "came_back", "reading": "رِجِع", "other_reading": "رَجَّع", "checks": [["ر", "kasra"], ["ج", "no_shadda"]]}
+{"id": "رجع_brought_back_1", "text": "رجع الكتاب للمكتبة قبل الميعاد.", "target": "رجع", "sense": "brought_back", "reading": "رَجَّع", "other_reading": "رِجِع", "checks": [["ر", "fatha"], ["ج", "shadda"]]}
+{"id": "رجع_brought_back_2", "text": "المحل رجع لي فلوسي كاملة.", "target": "رجع", "sense": "brought_back", "reading": "رَجَّع", "other_reading": "رِجِع", "checks": [["ر", "fatha"], ["ج", "shadda"]]}
+{"id": "رجع_brought_back_3", "text": "رجع الحاجة مكانها لو سمحت.", "target": "رجع", "sense": "brought_back", "reading": "رَجَّع", "other_reading": "رِجِع", "checks": [["ر", "fatha"], ["ج", "shadda"]]}
+{"id": "يركب_ride_1", "text": "ابني بيحب يركب العجلة في الجنينة.", "target": "يركب", "sense": "ride", "reading": "يِرْكَب", "other_reading": "يِرَكِّب", "checks": [["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "يركب_ride_2", "text": "هو لازم يركب الأتوبيس عشان يوصل.", "target": "يركب", "sense": "ride", "reading": "يِرْكَب", "other_reading": "يِرَكِّب", "checks": [["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "يركب_ride_3", "text": "مش عايز يركب الطيارة عشان بيخاف.", "target": "يركب", "sense": "ride", "reading": "يِرْكَب", "other_reading": "يِرَكِّب", "checks": [["ر", "sukun"], ["ك", "no_shadda"]]}
+{"id": "يركب_install_1", "text": "الفني جاي بكرة يركب التكييف.", "target": "يركب", "sense": "install", "reading": "يِرَكِّب", "other_reading": "يِرْكَب", "checks": [["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "يركب_install_2", "text": "عايز حد يركب لي اللمبة دي.", "target": "يركب", "sense": "install", "reading": "يِرَكِّب", "other_reading": "يِرْكَب", "checks": [["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "يركب_install_3", "text": "المهندس هيركب الشبابيك الجديدة.", "target": "هيركب", "sense": "install", "reading": "هيِرَكِّب", "other_reading": "هيِرْكَب", "checks": [["ر", "fatha"], ["ك", "shadda"]]}
+{"id": "صفرت_whistled_1", "text": "الغسالة صفرت، طلع الهدوم.", "target": "صفرت", "sense": "whistled", "reading": "صَفَّرِت", "other_reading": "صَفَّرَت", "checks": [["ر", "kasra"]]}
+{"id": "صفرت_whistled_2", "text": "الكاتل صفرت والميه غليت.", "target": "صفرت", "sense": "whistled", "reading": "صَفَّرِت", "other_reading": "صَفَّرَت", "checks": [["ر", "kasra"]]}
+{"id": "صفرت_whistled_3", "text": "الحكمة صفرت وخلصت الماتش.", "target": "صفرت", "sense": "whistled", "reading": "صَفَّرِت", "other_reading": "صَفَّرَت", "checks": [["ر", "kasra"]]}
+{"id": "النص_half_1", "text": "خد النص ده وأنا آخد الباقي.", "target": "النص", "sense": "half", "reading": "النُّص", "other_reading": "النَّص", "checks": [["ن", "damma"]]}
+{"id": "النص_half_2", "text": "الأوتوبيس كان النص فاضي.", "target": "النص", "sense": "half", "reading": "النُّص", "other_reading": "النَّص", "checks": [["ن", "damma"]]}
+{"id": "النص_half_3", "text": "قعدت مستني ساعة إلا النص.", "target": "النص", "sense": "half", "reading": "النُّص", "other_reading": "النَّص", "checks": [["ن", "damma"]]}
+{"id": "النص_text_1", "text": "اقرا النص كويس قبل ما تجاوب.", "target": "النص", "sense": "text", "reading": "النَّص", "other_reading": "النُّص", "checks": [["ن", "fatha"]]}
+{"id": "النص_text_2", "text": "المترجم ترجم النص كله في يوم.", "target": "النص", "sense": "text", "reading": "النَّص", "other_reading": "النُّص", "checks": [["ن", "fatha"]]}
+{"id": "النص_text_3", "text": "الممثل حافظ النص بتاعه كويس.", "target": "النص", "sense": "text", "reading": "النَّص", "other_reading": "النُّص", "checks": [["ن", "fatha"]]}
+{"id": "حب_love_1", "text": "الحب مش كفاية لوحده.", "target": "الحب", "sense": "love", "reading": "الحُب", "other_reading": "الحَبّ", "checks": [["ح", "damma"]]}
+{"id": "حب_love_2", "text": "أغنية عن الحب والفراق.", "target": "الحب", "sense": "love", "reading": "الحُب", "other_reading": "الحَبّ", "checks": [["ح", "damma"]]}
+{"id": "حب_love_3", "text": "كان حب من أول نظرة.", "target": "حب", "sense": "love", "reading": "حُب", "other_reading": "حَبّ", "checks": [["ح", "damma"]]}
+{"id": "حب_pills_1", "text": "الدكتور كتب لي حب للصداع.", "target": "حب", "sense": "pills", "reading": "حَبّ", "other_reading": "حُب", "checks": [["ح", "fatha"]]}
+{"id": "حب_pills_2", "text": "خد حب الضغط بتاعك بعد الأكل.", "target": "حب", "sense": "pills", "reading": "حَبّ", "other_reading": "حُب", "checks": [["ح", "fatha"]]}
+{"id": "حب_pills_3", "text": "الطيور بتاكل حب القمح.", "target": "حب", "sense": "pills", "reading": "حَبّ", "other_reading": "حُب", "checks": [["ح", "fatha"]]}
+{"id": "علم_science_1", "text": "العلم نور والجهل ظلام.", "target": "العلم", "sense": "science", "reading": "العِلْم", "other_reading": "العَلَم", "checks": [["ع", "kasra"], ["ل", "sukun"]]}
+{"id": "علم_science_2", "text": "طالب في كلية العلوم بيحب العلم.", "target": "العلم", "sense": "science", "reading": "العِلْم", "other_reading": "العَلَم", "checks": [["ع", "kasra"], ["ل", "sukun"]]}
+{"id": "علم_science_3", "text": "ده موضوع محتاج علم وخبرة.", "target": "علم", "sense": "science", "reading": "عِلْم", "other_reading": "عَلَم", "checks": [["ع", "kasra"], ["ل", "sukun"]]}
+{"id": "علم_flag_1", "text": "رفعنا علم مصر في الماتش.", "target": "علم", "sense": "flag", "reading": "عَلَم", "other_reading": "عِلْم", "checks": [["ع", "fatha"], ["ل", "fatha"]]}
+{"id": "علم_flag_2", "text": "المدرسة بتحيي العلم كل يوم الصبح.", "target": "العلم", "sense": "flag", "reading": "العَلَم", "other_reading": "العِلْم", "checks": [["ع", "fatha"], ["ل", "fatha"]]}
+{"id": "علم_flag_3", "text": "علقوا علم كبير على البلكونة.", "target": "علم", "sense": "flag", "reading": "عَلَم", "other_reading": "عِلْم", "checks": [["ع", "fatha"], ["ل", "fatha"]]}
+{"id": "درس_lesson_1", "text": "عندي درس رياضة الساعة خمسة.", "target": "درس", "sense": "lesson", "reading": "دَرْس", "other_reading": "دَرِّس", "checks": [["ر", "no_shadda"]]}
+{"id": "درس_lesson_2", "text": "الموقف ده كان درس ليا.", "target": "درس", "sense": "lesson", "reading": "دَرْس", "other_reading": "دَرِّس", "checks": [["ر", "no_shadda"]]}
+{"id": "درس_lesson_3", "text": "المدرس شرح درس جديد النهارده.", "target": "درس", "sense": "lesson", "reading": "دَرْس", "other_reading": "دَرِّس", "checks": [["ر", "no_shadda"]]}
+{"id": "درس_taught_1", "text": "هو درس لنا عربي سنة تانية.", "target": "درس", "sense": "taught", "reading": "دَرِّس", "other_reading": "دَرْس", "checks": [["ر", "shadda"]]}
+{"id": "درس_taught_2", "text": "درس في الجامعة عشرين سنة.", "target": "درس", "sense": "taught", "reading": "دَرِّس", "other_reading": "دَرْس", "checks": [["ر", "shadda"]]}
+{"id": "درس_taught_3", "text": "مين اللي درس لكم المادة دي؟", "target": "درس", "sense": "taught", "reading": "دَرِّس", "other_reading": "دَرْس", "checks": [["ر", "shadda"]]}
+{"id": "بجد_seriously_1", "text": "أنا بتكلم بجد مش بهزر.", "target": "بجد", "sense": "seriously", "reading": "بِجَد", "other_reading": "بَجَد", "checks": [["ب", "kasra"]]}
+{"id": "بجد_seriously_2", "text": "بجد شكرًا على كل حاجة.", "target": "بجد", "sense": "seriously", "reading": "بِجَد", "other_reading": "بَجَد", "checks": [["ب", "kasra"]]}
+{"id": "بجد_seriously_3", "text": "انت بجد هتسافر بكرة؟", "target": "بجد", "sense": "seriously", "reading": "بِجَد", "other_reading": "بَجَد", "checks": [["ب", "kasra"]]}
+{"id": "قدم_foot_1", "text": "داس على قدم الراجل اللي جنبه.", "target": "قدم", "sense": "foot", "reading": "قَدَم", "other_reading": "قَدِّم", "checks": [["د", "no_shadda"]]}
+{"id": "قدم_foot_2", "text": "الجزمة دي ضيقة على قدم ابني.", "target": "قدم", "sense": "foot", "reading": "قَدَم", "other_reading": "قَدِّم", "checks": [["د", "no_shadda"]]}
+{"id": "قدم_foot_3", "text": "عنده إصابة في قدم الشمال.", "target": "قدم", "sense": "foot", "reading": "قَدَم", "other_reading": "قَدِّم", "checks": [["د", "no_shadda"]]}
+{"id": "قدم_submitted_1", "text": "قدم ورقه في الشركة الجديدة.", "target": "قدم", "sense": "submitted", "reading": "قَدِّم", "other_reading": "قَدَم", "checks": [["د", "shadda"]]}
+{"id": "قدم_submitted_2", "text": "هو قدم استقالته امبارح.", "target": "قدم", "sense": "submitted", "reading": "قَدِّم", "other_reading": "قَدَم", "checks": [["د", "shadda"]]}
+{"id": "قدم_submitted_3", "text": "قدم الشاي للضيوف.", "target": "قدم", "sense": "submitted", "reading": "قَدِّم", "other_reading": "قَدَم", "checks": [["د", "shadda"]]}
+{"id": "وصل_arrived_1", "text": "الطرد وصل النهارده الصبح.", "target": "وصل", "sense": "arrived", "reading": "وِصِل", "other_reading": "وَصَّل", "checks": [["و", "kasra"], ["ص", "no_shadda"]]}
+{"id": "وصل_arrived_2", "text": "القطر وصل متأخر ساعة.", "target": "وصل", "sense": "arrived", "reading": "وِصِل", "other_reading": "وَصَّل", "checks": [["و", "kasra"], ["ص", "no_shadda"]]}
+{"id": "وصل_arrived_3", "text": "لما وصل البيت كلمني.", "target": "وصل", "sense": "arrived", "reading": "وِصِل", "other_reading": "وَصَّل", "checks": [["و", "kasra"], ["ص", "no_shadda"]]}
+{"id": "وصل_delivered_1", "text": "وصل أخوك المدرسة وتعالى.", "target": "وصل", "sense": "delivered", "reading": "وَصَّل", "other_reading": "وِصِل", "checks": [["و", "fatha"], ["ص", "shadda"]]}
+{"id": "وصل_delivered_2", "text": "وصل الأكل لجدتك وارجع على طول.", "target": "وصل", "sense": "delivered", "reading": "وَصَّل", "other_reading": "وِصِل", "checks": [["و", "fatha"], ["ص", "shadda"]]}
+{"id": "وصل_delivered_3", "text": "وصل السلك ده بالكهربا.", "target": "وصل", "sense": "delivered", "reading": "وَصَّل", "other_reading": "وِصِل", "checks": [["و", "fatha"], ["ص", "shadda"]]}
+{"id": "كسر_broke_1", "text": "الكوباية وقعت والإزاز كسر.", "target": "كسر", "sense": "broke", "reading": "كِسِر", "other_reading": "كَسْر", "checks": [["ك", "kasra"], ["س", "kasra"]]}
+{"id": "كسر_broke_2", "text": "الولد كسر الشباك بالكورة.", "target": "كسر", "sense": "broke", "reading": "كِسِر", "other_reading": "كَسْر", "checks": [["ك", "kasra"], ["س", "kasra"]]}
+{"id": "كسر_broke_3", "text": "مين كسر الريموت؟", "target": "كسر", "sense": "broke", "reading": "كِسِر", "other_reading": "كَسْر", "checks": [["ك", "kasra"], ["س", "kasra"]]}
+{"id": "كسر_fracture_1", "text": "عنده كسر في دراعه.", "target": "كسر", "sense": "fracture", "reading": "كَسْر", "other_reading": "كِسِر", "checks": [["ك", "fatha"], ["س", "sukun"]]}
+{"id": "كسر_fracture_2", "text": "الأشعة طلعت كسر في الرجل.", "target": "كسر", "sense": "fracture", "reading": "كَسْر", "other_reading": "كِسِر", "checks": [["ك", "fatha"], ["س", "sukun"]]}
+{"id": "كسر_fracture_3", "text": "الكسر محتاج جبس ست أسابيع.", "target": "الكسر", "sense": "fracture", "reading": "الكَسْر", "other_reading": "الكِسِر", "checks": [["ك", "fatha"], ["س", "sukun"]]}
+{"id": "حر_heat_1", "text": "الحر النهارده مش طبيعي.", "target": "الحر", "sense": "heat", "reading": "الحَرّ", "other_reading": "الحُرّ", "checks": [["ح", "fatha"]]}
+{"id": "حر_heat_2", "text": "مش قادر أنام من الحر.", "target": "الحر", "sense": "heat", "reading": "الحَرّ", "other_reading": "الحُرّ", "checks": [["ح", "fatha"]]}
+{"id": "حر_heat_3", "text": "في الحر ده لازم تشرب ميه كتير.", "target": "الحر", "sense": "heat", "reading": "الحَرّ", "other_reading": "الحُرّ", "checks": [["ح", "fatha"]]}
+{"id": "حر_free_1", "text": "انت حر تعمل اللي انت عايزه.", "target": "حر", "sense": "free", "reading": "حُرّ", "other_reading": "حَرّ", "checks": [["ح", "damma"]]}
+{"id": "حر_free_2", "text": "هو راجل حر وما بيحبش حد يتحكم فيه.", "target": "حر", "sense": "free", "reading": "حُرّ", "other_reading": "حَرّ", "checks": [["ح", "damma"]]}
+{"id": "حر_free_3", "text": "اختيارك، انت حر.", "target": "حر", "sense": "free", "reading": "حُرّ", "other_reading": "حَرّ", "checks": [["ح", "damma"]]}
+{"id": "مر_bitter_1", "text": "الدوا ده طعمه مر أوي.", "target": "مر", "sense": "bitter", "reading": "مُرّ", "other_reading": "مَرّ", "checks": [["م", "damma"]]}
+{"id": "مر_bitter_2", "text": "القهوة سادة ومر.", "target": "ومر", "sense": "bitter", "reading": "ومُرّ", "other_reading": "ومَرّ", "checks": [["م", "damma"]]}
+{"id": "مر_bitter_3", "text": "الحقيقة ساعات بتبقى مر.", "target": "مر", "sense": "bitter", "reading": "مُرّ", "other_reading": "مَرّ", "checks": [["م", "damma"]]}
+{"id": "مر_passed_1", "text": "الوقت مر بسرعة.", "target": "مر", "sense": "passed", "reading": "مَرّ", "other_reading": "مُرّ", "checks": [["م", "fatha"]]}
+{"id": "مر_passed_2", "text": "مر علينا امبارح وسلم.", "target": "مر", "sense": "passed", "reading": "مَرّ", "other_reading": "مُرّ", "checks": [["م", "fatha"]]}
+{"id": "مر_passed_3", "text": "اليوم مر على خير الحمد لله.", "target": "مر", "sense": "passed", "reading": "مَرّ", "other_reading": "مُرّ", "checks": [["م", "fatha"]]}
+{"id": "الدور_floor_1", "text": "ساكنين في الدور التالت.", "target": "الدور", "sense": "floor", "reading": "الدُّور", "other_reading": "الدَّور", "checks": [["د", "damma"]]}
+{"id": "الدور_floor_2", "text": "الأسانسير واقف في الدور الأرضي.", "target": "الدور", "sense": "floor", "reading": "الدُّور", "other_reading": "الدَّور", "checks": [["د", "damma"]]}
+{"id": "الدور_floor_3", "text": "المكتب في الدور الخامس.", "target": "الدور", "sense": "floor", "reading": "الدُّور", "other_reading": "الدَّور", "checks": [["د", "damma"]]}
+{"id": "الدور_turn_1", "text": "الدور عليك تلعب.", "target": "الدور", "sense": "turn", "reading": "الدَّور", "other_reading": "الدُّور", "checks": [["د", "fatha"]]}
+{"id": "الدور_turn_2", "text": "استنى الدور زي الناس.", "target": "الدور", "sense": "turn", "reading": "الدَّور", "other_reading": "الدُّور", "checks": [["د", "fatha"]]}
+{"id": "الدور_turn_3", "text": "الممثل ده عمل الدور حلو أوي.", "target": "الدور", "sense": "turn", "reading": "الدَّور", "other_reading": "الدُّور", "checks": [["د", "fatha"]]}
+{"id": "فرق_difference_1", "text": "مش فارقة، مافيش فرق كبير.", "target": "فرق", "sense": "difference", "reading": "فَرْق", "other_reading": "فِرَق", "checks": [["ف", "fatha"], ["ر", "sukun"]]}
+{"id": "فرق_difference_2", "text": "شايف فرق في السعر بين المحلين.", "target": "فرق", "sense": "difference", "reading": "فَرْق", "other_reading": "فِرَق", "checks": [["ف", "fatha"], ["ر", "sukun"]]}
+{"id": "فرق_difference_3", "text": "فيه فرق ساعة بين مصر والسعودية.", "target": "فرق", "sense": "difference", "reading": "فَرْق", "other_reading": "فِرَق", "checks": [["ف", "fatha"], ["ر", "sukun"]]}
+{"id": "فرق_teams_1", "text": "البطولة فيها ستاشر فرق.", "target": "فرق", "sense": "teams", "reading": "فِرَق", "other_reading": "فَرْق", "checks": [["ف", "kasra"], ["ر", "fatha"]]}
+{"id": "فرق_teams_2", "text": "قسمنا الفصل فرق صغيرة.", "target": "فرق", "sense": "teams", "reading": "فِرَق", "other_reading": "فَرْق", "checks": [["ف", "kasra"], ["ر", "fatha"]]}
+{"id": "فرق_teams_3", "text": "فرق الإسعاف وصلت بسرعة.", "target": "فرق", "sense": "teams", "reading": "فِرَق", "other_reading": "فَرْق", "checks": [["ف", "kasra"], ["ر", "fatha"]]}
+{"id": "قطع_cut_1", "text": "قطع الكيكة ووزعها علينا.", "target": "قطع", "sense": "cut", "reading": "قَطَع", "other_reading": "قِطَع", "checks": [["ق", "fatha"]]}
+{"id": "قطع_cut_2", "text": "النور قطع فجأة.", "target": "قطع", "sense": "cut", "reading": "قَطَع", "other_reading": "قِطَع", "checks": [["ق", "fatha"]]}
+{"id": "قطع_cut_3", "text": "قطع ورقة من الكشكول.", "target": "قطع", "sense": "cut", "reading": "قَطَع", "other_reading": "قِطَع", "checks": [["ق", "fatha"]]}
+{"id": "قطع_pieces_1", "text": "الميكانيكي غير قطع غيار كتير.", "target": "قطع", "sense": "pieces", "reading": "قِطَع", "other_reading": "قَطَع", "checks": [["ق", "kasra"]]}
+{"id": "قطع_pieces_2", "text": "قطع اللحمة دي كبيرة.", "target": "قطع", "sense": "pieces", "reading": "قِطَع", "other_reading": "قَطَع", "checks": [["ق", "kasra"]]}
+{"id": "قطع_pieces_3", "text": "اللعبة فيها قطع صغيرة كتير.", "target": "قطع", "sense": "pieces", "reading": "قِطَع", "other_reading": "قَطَع", "checks": [["ق", "kasra"]]}
+{"id": "جمل_camel_1", "text": "ركبنا جمل عند الأهرامات.", "target": "جمل", "sense": "camel", "reading": "جَمَل", "other_reading": "جُمَل", "checks": [["ج", "fatha"]]}
+{"id": "جمل_camel_2", "text": "الجمل بيستحمل العطش.", "target": "الجمل", "sense": "camel", "reading": "الجَمَل", "other_reading": "الجُمَل", "checks": [["ج", "fatha"]]}
+{"id": "جمل_camel_3", "text": "صورته وهو راكب جمل.", "target": "جمل", "sense": "camel", "reading": "جَمَل", "other_reading": "جُمَل", "checks": [["ج", "fatha"]]}
+{"id": "جمل_sentences_1", "text": "اكتب خمس جمل عن الصيف.", "target": "جمل", "sense": "sentences", "reading": "جُمَل", "other_reading": "جَمَل", "checks": [["ج", "damma"]]}
+{"id": "جمل_sentences_2", "text": "المدرس طلب جمل مفيدة.", "target": "جمل", "sense": "sentences", "reading": "جُمَل", "other_reading": "جَمَل", "checks": [["ج", "damma"]]}
+{"id": "جمل_sentences_3", "text": "ترجم الجمل دي للإنجليزي.", "target": "الجمل", "sense": "sentences", "reading": "الجُمَل", "other_reading": "الجَمَل", "checks": [["ج", "damma"]]}
+{"id": "لبس_wore_1", "text": "لبس البدلة الجديدة في الفرح.", "target": "لبس", "sense": "wore", "reading": "لِبِس", "other_reading": "لِبْس", "checks": [["ب", "kasra"]]}
+{"id": "لبس_wore_2", "text": "لبس الجاكيت عشان الجو برد.", "target": "لبس", "sense": "wore", "reading": "لِبِس", "other_reading": "لِبْس", "checks": [["ب", "kasra"]]}
+{"id": "لبس_wore_3", "text": "هو لبس بسرعة ونزل.", "target": "لبس", "sense": "wore", "reading": "لِبِس", "other_reading": "لِبْس", "checks": [["ب", "kasra"]]}
+{"id": "لبس_clothes_1", "text": "اللبس ده غالي أوي.", "target": "اللبس", "sense": "clothes", "reading": "اللِبْس", "other_reading": "اللِبِس", "checks": [["ب", "sukun"]]}
+{"id": "لبس_clothes_2", "text": "محتاج لبس شتوي للعيال.", "target": "لبس", "sense": "clothes", "reading": "لِبْس", "other_reading": "لِبِس", "checks": [["ب", "sukun"]]}
+{"id": "لبس_clothes_3", "text": "عندها لبس كتير ما بتلبسوش.", "target": "لبس", "sense": "clothes", "reading": "لِبْس", "other_reading": "لِبِس", "checks": [["ب", "sukun"]]}
+{"id": "شغل_work_1", "text": "عندي شغل كتير النهارده.", "target": "شغل", "sense": "work", "reading": "شُغْل", "other_reading": "شَغَّل", "checks": [["ش", "damma"], ["غ", "no_shadda"]]}
+{"id": "شغل_work_2", "text": "رايح الشغل بدري.", "target": "الشغل", "sense": "work", "reading": "الشُغْل", "other_reading": "الشَغَّل", "checks": [["ش", "damma"], ["غ", "no_shadda"]]}
+{"id": "شغل_work_3", "text": "لقيت شغل جديد في شركة كبيرة.", "target": "شغل", "sense": "work", "reading": "شُغْل", "other_reading": "شَغَّل", "checks": [["ش", "damma"], ["غ", "no_shadda"]]}
+{"id": "شغل_turned_on_1", "text": "شغل التكييف الجو حر.", "target": "شغل", "sense": "turned_on", "reading": "شَغَّل", "other_reading": "شُغْل", "checks": [["ش", "fatha"], ["غ", "shadda"]]}
+{"id": "شغل_turned_on_2", "text": "هو شغل الموتور واتحرك.", "target": "شغل", "sense": "turned_on", "reading": "شَغَّل", "other_reading": "شُغْل", "checks": [["ش", "fatha"], ["غ", "shadda"]]}
+{"id": "شغل_turned_on_3", "text": "شغل لنا أغنية حلوة.", "target": "شغل", "sense": "turned_on", "reading": "شَغَّل", "other_reading": "شُغْل", "checks": [["ش", "fatha"], ["غ", "shadda"]]}
+{"id": "طلع_went_up_1", "text": "طلع السطح يجيب الغسيل.", "target": "طلع", "sense": "went_up", "reading": "طِلِع", "other_reading": "طَلَّع", "checks": [["ط", "kasra"], ["ل", "no_shadda"]]}
+{"id": "طلع_went_up_2", "text": "الأسانسير طلع بينا الدور العاشر.", "target": "طلع", "sense": "went_up", "reading": "طِلِع", "other_reading": "طَلَّع", "checks": [["ط", "kasra"], ["ل", "no_shadda"]]}
+{"id": "طلع_went_up_3", "text": "طلع فوق يشوف مين بيخبط.", "target": "طلع", "sense": "went_up", "reading": "طِلِع", "other_reading": "طَلَّع", "checks": [["ط", "kasra"], ["ل", "no_shadda"]]}
+{"id": "طلع_took_out_1", "text": "طلع الفلوس من جيبه.", "target": "طلع", "sense": "took_out", "reading": "طَلَّع", "other_reading": "طِلِع", "checks": [["ط", "fatha"], ["ل", "shadda"]]}
+{"id": "طلع_took_out_2", "text": "طلع الأكل من التلاجة.", "target": "طلع", "sense": "took_out", "reading": "طَلَّع", "other_reading": "طِلِع", "checks": [["ط", "fatha"], ["ل", "shadda"]]}
+{"id": "طلع_took_out_3", "text": "الدكتور طلع الشوكة من رجله.", "target": "طلع", "sense": "took_out", "reading": "طَلَّع", "other_reading": "طِلِع", "checks": [["ط", "fatha"], ["ل", "shadda"]]}
+{"id": "دخل_income_1", "text": "الدخل بتاعي مش مكفي.", "target": "الدخل", "sense": "income", "reading": "الدَخْل", "other_reading": "الدَخَّل", "checks": [["خ", "no_shadda"]]}
+{"id": "دخل_income_2", "text": "عايزين نزود الدخل الشهري.", "target": "الدخل", "sense": "income", "reading": "الدَخْل", "other_reading": "الدَخَّل", "checks": [["خ", "no_shadda"]]}
+{"id": "دخل_income_3", "text": "مصدر الدخل الوحيد هو المحل.", "target": "الدخل", "sense": "income", "reading": "الدَخْل", "other_reading": "الدَخَّل", "checks": [["خ", "no_shadda"]]}
+{"id": "دخل_put_in_1", "text": "دخل العربية الجراج.", "target": "دخل", "sense": "put_in", "reading": "دَخَّل", "other_reading": "دَخْل", "checks": [["خ", "shadda"]]}
+{"id": "دخل_put_in_2", "text": "دخل الكرسي جوه عشان المطر.", "target": "دخل", "sense": "put_in", "reading": "دَخَّل", "other_reading": "دَخْل", "checks": [["خ", "shadda"]]}
+{"id": "دخل_put_in_3", "text": "هو دخل ابنه مدرسة لغات.", "target": "دخل", "sense": "put_in", "reading": "دَخَّل", "other_reading": "دَخْل", "checks": [["خ", "shadda"]]}
+{"id": "غني_rich_1", "text": "هو راجل غني جدًا.", "target": "غني", "sense": "rich", "reading": "غَنِي", "other_reading": "غَنِّي", "checks": [["ن", "no_shadda"]]}
+{"id": "غني_rich_2", "text": "اتجوزت واحد غني من الخليج.", "target": "غني", "sense": "rich", "reading": "غَنِي", "other_reading": "غَنِّي", "checks": [["ن", "no_shadda"]]}
+{"id": "غني_rich_3", "text": "مش لازم تبقى غني عشان تبقى مبسوط.", "target": "غني", "sense": "rich", "reading": "غَنِي", "other_reading": "غَنِّي", "checks": [["ن", "no_shadda"]]}
+{"id": "غني_sing_1", "text": "غني لنا حاجة يا محمد.", "target": "غني", "sense": "sing", "reading": "غَنِّي", "other_reading": "غَنِي", "checks": [["ن", "shadda"]]}
+{"id": "غني_sing_2", "text": "يلا غني معانا الأغنية دي.", "target": "غني", "sense": "sing", "reading": "غَنِّي", "other_reading": "غَنِي", "checks": [["ن", "shadda"]]}
+{"id": "غني_sing_3", "text": "غني بصوت عالي ما تتكسفش.", "target": "غني", "sense": "sing", "reading": "غَنِّي", "other_reading": "غَنِي", "checks": [["ن", "shadda"]]}
+{"id": "المية_water_1", "text": "المية مقطوعة من الصبح.", "target": "المية", "sense": "water", "reading": "المَيَّة", "other_reading": "المِيَّة", "checks": [["م", "fatha"]]}
+{"id": "المية_water_2", "text": "اشرب المية دي ساقعة.", "target": "المية", "sense": "water", "reading": "المَيَّة", "other_reading": "المِيَّة", "checks": [["م", "fatha"]]}
+{"id": "المية_water_3", "text": "سخن المية للشاي.", "target": "المية", "sense": "water", "reading": "المَيَّة", "other_reading": "المِيَّة", "checks": [["م", "fatha"]]}
+{"id": "المية_hundred_1", "text": "جاب المية في المية في الامتحان.", "target": "المية", "sense": "hundred", "reading": "المِيَّة", "other_reading": "المَيَّة", "checks": [["م", "kasra"]]}
+{"id": "المية_hundred_2", "text": "دفعت المية جنيه للسواق.", "target": "المية", "sense": "hundred", "reading": "المِيَّة", "other_reading": "المَيَّة", "checks": [["م", "kasra"]]}
+{"id": "المية_hundred_3", "text": "خد المية دي وهات الباقي.", "target": "المية", "sense": "hundred", "reading": "المِيَّة", "other_reading": "المَيَّة", "checks": [["م", "kasra"]]}
+{"id": "الضهر_noon_1", "text": "هنتقابل بعد الضهر.", "target": "الضهر", "sense": "noon", "reading": "الضُّهر", "other_reading": "الضَّهر", "checks": [["ض", "damma"]]}
+{"id": "الضهر_noon_2", "text": "صليت الضهر في الجامع.", "target": "الضهر", "sense": "noon", "reading": "الضُّهر", "other_reading": "الضَّهر", "checks": [["ض", "damma"]]}
+{"id": "الضهر_noon_3", "text": "نمت من الضهر لحد المغرب.", "target": "الضهر", "sense": "noon", "reading": "الضُّهر", "other_reading": "الضَّهر", "checks": [["ض", "damma"]]}
+{"id": "الضهر_back_1", "text": "عندي وجع في الضهر.", "target": "الضهر", "sense": "back", "reading": "الضَّهر", "other_reading": "الضُّهر", "checks": [["ض", "fatha"]]}
+{"id": "الضهر_back_2", "text": "شيل الحاجات التقيلة دي هتتعب الضهر.", "target": "الضهر", "sense": "back", "reading": "الضَّهر", "other_reading": "الضُّهر", "checks": [["ض", "fatha"]]}
+{"id": "الضهر_back_3", "text": "الدكتور قال إن الضهر محتاج علاج طبيعي.", "target": "الضهر", "sense": "back", "reading": "الضَّهر", "other_reading": "الضُّهر", "checks": [["ض", "fatha"]]}
+{"id": "مثل_proverb_1", "text": "فيه مثل بيقول اللي فات مات.", "target": "مثل", "sense": "proverb", "reading": "مَثَل", "other_reading": "مِثل", "checks": [["م", "fatha"]]}
+{"id": "مثل_proverb_2", "text": "جدتي كانت بتقول مثل لكل موقف.", "target": "مثل", "sense": "proverb", "reading": "مَثَل", "other_reading": "مِثل", "checks": [["م", "fatha"]]}
+{"id": "مثل_proverb_3", "text": "ده مثل شعبي قديم.", "target": "مثل", "sense": "proverb", "reading": "مَثَل", "other_reading": "مِثل", "checks": [["م", "fatha"]]}
+{"id": "مثل_like_1", "text": "هو مثل أبوه بالظبط.", "target": "مثل", "sense": "like", "reading": "مِثل", "other_reading": "مَثَل", "checks": [["م", "kasra"]]}
+{"id": "مثل_like_2", "text": "عايز موبايل مثل ده.", "target": "مثل", "sense": "like", "reading": "مِثل", "other_reading": "مَثَل", "checks": [["م", "kasra"]]}
+{"id": "مثل_like_3", "text": "ما فيش حد مثل أمك.", "target": "مثل", "sense": "like", "reading": "مِثل", "other_reading": "مَثَل", "checks": [["م", "kasra"]]}
+{"id": "خلق_created_1", "text": "ربنا خلق السما والأرض.", "target": "خلق", "sense": "created", "reading": "خَلَق", "other_reading": "خُلُق", "checks": [["خ", "fatha"], ["ل", "fatha"]]}
+{"id": "خلق_created_2", "text": "سبحان اللي خلق الجمال ده.", "target": "خلق", "sense": "created", "reading": "خَلَق", "other_reading": "خُلُق", "checks": [["خ", "fatha"], ["ل", "fatha"]]}
+{"id": "خلق_created_3", "text": "ربنا خلق كل واحد مختلف.", "target": "خلق", "sense": "created", "reading": "خَلَق", "other_reading": "خُلُق", "checks": [["خ", "fatha"], ["ل", "fatha"]]}
+{"id": "خلق_manners_1", "text": "البنت دي على خلق.", "target": "خلق", "sense": "manners", "reading": "خُلُق", "other_reading": "خَلَق", "checks": [["خ", "damma"], ["ل", "damma"]]}
+{"id": "خلق_manners_2", "text": "عايزين عريس على دين وخلق.", "target": "وخلق", "sense": "manners", "reading": "وخُلُق", "other_reading": "وخَلَق", "checks": [["خ", "damma"], ["ل", "damma"]]}
+{"id": "خلق_manners_3", "text": "حسن الخلق أهم من الفلوس.", "target": "الخلق", "sense": "manners", "reading": "الخُلُق", "other_reading": "الخَلَق", "checks": [["خ", "damma"], ["ل", "damma"]]}
+{"id": "أولى_first_f_1", "text": "بنتي في سنة أولى ابتدائي.", "target": "أولى", "sense": "first_f", "reading": "أُولَى", "other_reading": "أَولَى", "checks": [["أ", "damma"]]}
+{"id": "أولى_first_f_2", "text": "دي أولى خطوة في المشروع.", "target": "أولى", "sense": "first_f", "reading": "أُولَى", "other_reading": "أَولَى", "checks": [["أ", "damma"]]}
+{"id": "أولى_first_f_3", "text": "أخدت المركز الأول في سنة أولى.", "target": "أولى", "sense": "first_f", "reading": "أُولَى", "other_reading": "أَولَى", "checks": [["أ", "damma"]]}
+{"id": "أولى_more_deserving_1", "text": "أهلك أولى بالفلوس دي.", "target": "أولى", "sense": "more_deserving", "reading": "أَولَى", "other_reading": "أُولَى", "checks": [["أ", "fatha"]]}
+{"id": "أولى_more_deserving_2", "text": "الأقربون أولى بالمعروف.", "target": "أولى", "sense": "more_deserving", "reading": "أَولَى", "other_reading": "أُولَى", "checks": [["أ", "fatha"]]}
+{"id": "أولى_more_deserving_3", "text": "هو أولى بالوظيفة دي من أي حد.", "target": "أولى", "sense": "more_deserving", "reading": "أَولَى", "other_reading": "أُولَى", "checks": [["أ", "fatha"]]}
+{"id": "العشرة_ten_1", "text": "الساعة بقت العشرة.", "target": "العشرة", "sense": "ten", "reading": "العَشَرَة", "other_reading": "العِشْرَة", "checks": [["ع", "fatha"], ["ش", "fatha"]]}
+{"id": "العشرة_ten_2", "text": "اديني العشرة جنيه.", "target": "العشرة", "sense": "ten", "reading": "العَشَرَة", "other_reading": "العِشْرَة", "checks": [["ع", "fatha"], ["ش", "fatha"]]}
+{"id": "العشرة_ten_3", "text": "وصلنا قبل العشرة بشوية.", "target": "العشرة", "sense": "ten", "reading": "العَشَرَة", "other_reading": "العِشْرَة", "checks": [["ع", "fatha"], ["ش", "fatha"]]}
+{"id": "العشرة_companionship_1", "text": "العشرة ما تهونش إلا على ولاد الحرام.", "target": "العشرة", "sense": "companionship", "reading": "العِشْرَة", "other_reading": "العَشَرَة", "checks": [["ع", "kasra"], ["ش", "sukun"]]}
+{"id": "العشرة_companionship_2", "text": "بعد العشرة الطويلة دي يسيبها؟", "target": "العشرة", "sense": "companionship", "reading": "العِشْرَة", "other_reading": "العَشَرَة", "checks": [["ع", "kasra"], ["ش", "sukun"]]}
+{"id": "العشرة_companionship_3", "text": "العشرة بينهم عشرين سنة.", "target": "العشرة", "sense": "companionship", "reading": "العِشْرَة", "other_reading": "العَشَرَة", "checks": [["ع", "kasra"], ["ش", "sukun"]]}
+{"id": "ضعف_weakness_1", "text": "عنده ضعف في النظر.", "target": "ضعف", "sense": "weakness", "reading": "ضَعْف", "other_reading": "ضِعْف", "checks": [["ض", "fatha"]]}
+{"id": "ضعف_weakness_2", "text": "الدكتور قال إن عنده ضعف عام.", "target": "ضعف", "sense": "weakness", "reading": "ضَعْف", "other_reading": "ضِعْف", "checks": [["ض", "fatha"]]}
+{"id": "ضعف_weakness_3", "text": "ده نقطة ضعف عنده.", "target": "ضعف", "sense": "weakness", "reading": "ضَعْف", "other_reading": "ضِعْف", "checks": [["ض", "fatha"]]}
+{"id": "ضعف_double_1", "text": "الأسعار زادت الضعف.", "target": "الضعف", "sense": "double", "reading": "الضِعْف", "other_reading": "الضَعْف", "checks": [["ض", "kasra"]]}
+{"id": "ضعف_double_2", "text": "دفعت ضعف التمن.", "target": "ضعف", "sense": "double", "reading": "ضِعْف", "other_reading": "ضَعْف", "checks": [["ض", "kasra"]]}
+{"id": "ضعف_double_3", "text": "المرتب الجديد ضعف القديم.", "target": "ضعف", "sense": "double", "reading": "ضِعْف", "other_reading": "ضَعْف", "checks": [["ض", "kasra"]]}
+{"id": "بني_brown_1", "text": "اشتريت جزمة بني.", "target": "بني", "sense": "brown", "reading": "بُنِّي", "other_reading": "بَنِي", "checks": [["ب", "damma"], ["ن", "shadda"]]}
+{"id": "بني_brown_2", "text": "عينيها لونها بني فاتح.", "target": "بني", "sense": "brown", "reading": "بُنِّي", "other_reading": "بَنِي", "checks": [["ب", "damma"], ["ن", "shadda"]]}
+{"id": "بني_brown_3", "text": "الكنبة البني دي حلوة.", "target": "البني", "sense": "brown", "reading": "البُنِّي", "other_reading": "البَنِي", "checks": [["ب", "damma"], ["ن", "shadda"]]}
+{"id": "بني_sons_of_1", "text": "قبيلة بني هلال مشهورة.", "target": "بني", "sense": "sons_of", "reading": "بَنِي", "other_reading": "بُنِّي", "checks": [["ب", "fatha"], ["ن", "no_shadda"]]}
+{"id": "بني_sons_of_2", "text": "رحنا بني سويف نزور قرايبنا.", "target": "بني", "sense": "sons_of", "reading": "بَنِي", "other_reading": "بُنِّي", "checks": [["ب", "fatha"], ["ن", "no_shadda"]]}
+{"id": "بني_sons_of_3", "text": "سيرة بني هلال حكاية قديمة.", "target": "بني", "sense": "sons_of", "reading": "بَنِي", "other_reading": "بُنِّي", "checks": [["ب", "fatha"], ["ن", "no_shadda"]]}
+{"id": "بحبك_to_male_1", "text": "يا أحمد، أنا بحبك أوي يا حبيبي.", "target": "بحبك", "sense": "to_male", "reading": "بَحِبَّك", "other_reading": "بَحِبِّك", "checks": [["ب", "fatha"]]}
+{"id": "بحبك_to_male_2", "text": "يا بابا، بحبك وربنا يخليك لينا.", "target": "بحبك", "sense": "to_male", "reading": "بَحِبَّك", "other_reading": "بَحِبِّك", "checks": [["ب", "fatha"]]}
+{"id": "بحبك_to_male_3", "text": "يا صاحبي، والله بحبك يا عم.", "target": "بحبك", "sense": "to_male", "reading": "بَحِبَّك", "other_reading": "بَحِبِّك", "checks": [["ب", "fatha"]]}
+{"id": "بحبك_to_female_1", "text": "يا ماما، بحبك أوي يا حبيبتي.", "target": "بحبك", "sense": "to_female", "reading": "بَحِبِّك", "other_reading": "بَحِبَّك", "checks": [["ب", "kasra"]]}
+{"id": "بحبك_to_female_2", "text": "يا سارة، أنا بحبك ومش هسيبك.", "target": "بحبك", "sense": "to_female", "reading": "بَحِبِّك", "other_reading": "بَحِبَّك", "checks": [["ب", "kasra"]]}
+{"id": "بحبك_to_female_3", "text": "يا بنتي، بحبك وعايزة مصلحتك.", "target": "بحبك", "sense": "to_female", "reading": "بَحِبِّك", "other_reading": "بَحِبَّك", "checks": [["ب", "kasra"]]}
+{"id": "حضرتك_to_male_1", "text": "حضرتك يا أستاذ محمد عايز تطلب إيه؟", "target": "حضرتك", "sense": "to_male", "reading": "حَضرِتَك", "other_reading": "حَضرِتِك", "checks": [["ت", "fatha"]]}
+{"id": "حضرتك_to_male_2", "text": "يا باشمهندس، حضرتك موجود بكرة؟", "target": "حضرتك", "sense": "to_male", "reading": "حَضرِتَك", "other_reading": "حَضرِتِك", "checks": [["ت", "fatha"]]}
+{"id": "حضرتك_to_male_3", "text": "يا فندم، حضرتك اتأخرت على الميعاد.", "target": "حضرتك", "sense": "to_male", "reading": "حَضرِتَك", "other_reading": "حَضرِتِك", "checks": [["ت", "fatha"]]}
+{"id": "حضرتك_to_female_1", "text": "حضرتك يا مدام عايزة تطلبي إيه؟", "target": "حضرتك", "sense": "to_female", "reading": "حَضرِتِك", "other_reading": "حَضرِتَك", "checks": [["ت", "kasra"]]}
+{"id": "حضرتك_to_female_2", "text": "يا دكتورة، حضرتك موجودة بكرة؟", "target": "حضرتك", "sense": "to_female", "reading": "حَضرِتِك", "other_reading": "حَضرِتَك", "checks": [["ت", "kasra"]]}
+{"id": "حضرتك_to_female_3", "text": "يا هانم، حضرتك اتأخرتي على الميعاد.", "target": "حضرتك", "sense": "to_female", "reading": "حَضرِتِك", "other_reading": "حَضرِتَك", "checks": [["ت", "kasra"]]}
+{"id": "عندك_to_male_1", "text": "يا عم حسن، عندك فكة؟", "target": "عندك", "sense": "to_male", "reading": "عَندَك", "other_reading": "عَندِك", "checks": [["د", "fatha"]]}
+{"id": "عندك_to_male_2", "text": "يا معلم، عندك عيش بلدي؟", "target": "عندك", "sense": "to_male", "reading": "عَندَك", "other_reading": "عَندِك", "checks": [["د", "fatha"]]}
+{"id": "عندك_to_male_3", "text": "انت عندك امتحان بكرة يا ابني؟", "target": "عندك", "sense": "to_male", "reading": "عَندَك", "other_reading": "عَندِك", "checks": [["د", "fatha"]]}
+{"id": "عندك_to_female_1", "text": "يا ماما، عندك سكر؟", "target": "عندك", "sense": "to_female", "reading": "عَندِك", "other_reading": "عَندَك", "checks": [["د", "kasra"]]}
+{"id": "عندك_to_female_2", "text": "انتي عندك امتحان بكرة يا بنتي؟", "target": "عندك", "sense": "to_female", "reading": "عَندِك", "other_reading": "عَندَك", "checks": [["د", "kasra"]]}
+{"id": "عندك_to_female_3", "text": "يا مدام، عندك فكة؟", "target": "عندك", "sense": "to_female", "reading": "عَندِك", "other_reading": "عَندَك", "checks": [["د", "kasra"]]}
+{"id": "القيم_values_1", "text": "لازم نربي العيال على القيم.", "target": "القيم", "sense": "values", "reading": "القِيَم", "other_reading": "الْقَيِّم", "checks": [["ق", "kasra"], ["ي", "no_shadda"]]}
+{"id": "القيم_values_2", "text": "المجتمع بيفقد القيم بتاعته.", "target": "القيم", "sense": "values", "reading": "القِيَم", "other_reading": "الْقَيِّم", "checks": [["ق", "kasra"], ["ي", "no_shadda"]]}
+{"id": "القيم_values_3", "text": "القيم والأخلاق أهم من الشهادة.", "target": "القيم", "sense": "values", "reading": "القِيَم", "other_reading": "الْقَيِّم", "checks": [["ق", "kasra"], ["ي", "no_shadda"]]}
+{"id": "سلم_stairs_1", "text": "وقع من على السلم.", "target": "السلم", "sense": "stairs", "reading": "السِلِّم", "other_reading": "السَلِّم", "checks": [["س", "kasra"]]}
+{"id": "سلم_stairs_2", "text": "الأسانسير عطلان فطلعنا على السلم.", "target": "السلم", "sense": "stairs", "reading": "السِلِّم", "other_reading": "السَلِّم", "checks": [["س", "kasra"]]}
+{"id": "سلم_stairs_3", "text": "استنى على أول السلم.", "target": "السلم", "sense": "stairs", "reading": "السِلِّم", "other_reading": "السَلِّم", "checks": [["س", "kasra"]]}
+{"id": "سلم_hand_over_1", "text": "سلم المفاتيح للبواب.", "target": "سلم", "sense": "hand_over", "reading": "سَلِّم", "other_reading": "سِلِّم", "checks": [["س", "fatha"]]}
+{"id": "سلم_hand_over_2", "text": "سلم لي على أهلك.", "target": "سلم", "sense": "hand_over", "reading": "سَلِّم", "other_reading": "سِلِّم", "checks": [["س", "fatha"]]}
+{"id": "سلم_hand_over_3", "text": "سلم الشغل في الميعاد.", "target": "سلم", "sense": "hand_over", "reading": "سَلِّم", "other_reading": "سِلِّم", "checks": [["س", "fatha"]]}
+{"id": "حسن_name_1", "text": "عم حسن البواب طيب جدًا.", "target": "حسن", "sense": "name", "reading": "حَسَن", "other_reading": "حُسْن", "checks": [["ح", "fatha"], ["س", "fatha"]]}
+{"id": "حسن_name_2", "text": "كلم حسن وقول له يجي.", "target": "حسن", "sense": "name", "reading": "حَسَن", "other_reading": "حُسْن", "checks": [["ح", "fatha"], ["س", "fatha"]]}
+{"id": "حسن_name_3", "text": "حسن ابن خالتي اتجوز.", "target": "حسن", "sense": "name", "reading": "حَسَن", "other_reading": "حُسْن", "checks": [["ح", "fatha"], ["س", "fatha"]]}
+{"id": "حسن_goodness_1", "text": "ده من حسن حظنا.", "target": "حسن", "sense": "goodness", "reading": "حُسْن", "other_reading": "حَسَن", "checks": [["ح", "damma"], ["س", "sukun"]]}
+{"id": "حسن_goodness_2", "text": "شكرًا على حسن الضيافة.", "target": "حسن", "sense": "goodness", "reading": "حُسْن", "other_reading": "حَسَن", "checks": [["ح", "damma"], ["س", "sukun"]]}
+{"id": "حسن_goodness_3", "text": "حسن الظن بالناس حاجة حلوة.", "target": "حسن", "sense": "goodness", "reading": "حُسْن", "other_reading": "حَسَن", "checks": [["ح", "damma"], ["س", "sukun"]]}
+{"id": "ملك_king_1", "text": "الأسد ملك الغابة.", "target": "ملك", "sense": "king", "reading": "مَلِك", "other_reading": "مِلْك", "checks": [["م", "fatha"], ["ل", "kasra"]]}
+{"id": "ملك_king_2", "text": "الملك فاروق كان آخر ملك لمصر.", "target": "ملك", "sense": "king", "reading": "مَلِك", "other_reading": "مِلْك", "checks": [["م", "fatha"], ["ل", "kasra"]]}
+{"id": "ملك_king_3", "text": "حس إنه ملك في البيت.", "target": "ملك", "sense": "king", "reading": "مَلِك", "other_reading": "مِلْك", "checks": [["م", "fatha"], ["ل", "kasra"]]}
+{"id": "ملك_property_1", "text": "الشقة دي ملك أبويا.", "target": "ملك", "sense": "property", "reading": "مِلْك", "other_reading": "مَلِك", "checks": [["م", "kasra"], ["ل", "sukun"]]}
+{"id": "ملك_property_2", "text": "الأرض دي ملك الدولة.", "target": "ملك", "sense": "property", "reading": "مِلْك", "other_reading": "مَلِك", "checks": [["م", "kasra"], ["ل", "sukun"]]}
+{"id": "ملك_property_3", "text": "البيت ده ملك جدي الله يرحمه.", "target": "ملك", "sense": "property", "reading": "مِلْك", "other_reading": "مَلِك", "checks": [["م", "kasra"], ["ل", "sukun"]]}
+{"id": "تعلم_learning_1", "text": "تعلم اللغات محتاج صبر.", "target": "تعلم", "sense": "learning", "reading": "تَعَلُّم", "other_reading": "تَعْلَم", "checks": [["ع", "fatha"], ["ل", "shadda"]]}
+{"id": "تعلم_learning_2", "text": "عنده صعوبات في التعلم.", "target": "التعلم", "sense": "learning", "reading": "التَعَلُّم", "other_reading": "التَعْلَم", "checks": [["ع", "fatha"], ["ل", "shadda"]]}
+{"id": "تعلم_learning_3", "text": "التعلم عن بعد بقى منتشر.", "target": "التعلم", "sense": "learning", "reading": "التَعَلُّم", "other_reading": "التَعْلَم", "checks": [["ع", "fatha"], ["ل", "shadda"]]}
+{"id": "الشتا_winter_1", "text": "الشتا السنة دي برد جدًا.", "target": "الشتا", "sense": "winter", "reading": "الشِّتَا", "other_reading": "الشِّتَّا", "checks": [["ت", "no_shadda"]]}
+{"id": "الشتا_winter_2", "text": "بحب الشتا والمطر.", "target": "الشتا", "sense": "winter", "reading": "الشِّتَا", "other_reading": "الشِّتَّا", "checks": [["ت", "no_shadda"]]}
+{"id": "الشتا_winter_3", "text": "في الشتا بنشرب سحلب.", "target": "الشتا", "sense": "winter", "reading": "الشِّتَا", "other_reading": "الشِّتَّا", "checks": [["ت", "no_shadda"]]}

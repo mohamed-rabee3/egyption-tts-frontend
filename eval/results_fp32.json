@@ -1,0 +1,272 @@
+{
+ "model_dir": "/workspace/repos/egy-frontend/assets/diacritizer",
+ "int8": false,
+ "ms_per_sentence": 17.0,
+ "settings": [
+  {
+   "deviate_ambiguous": 0.0,
+   "deviate_other": 0.9,
+   "authored_right": 0.867,
+   "authored_wrong": 0.133,
+   "mined_fixed": 0.548,
+   "mined_broken": 0.057,
+   "net_per_1000": 69.9
+  },
+  {
+   "deviate_ambiguous": 0.0,
+   "deviate_other": 0.95,
+   "authored_right": 0.863,
+   "authored_wrong": 0.137,
+   "mined_fixed": 0.548,
+   "mined_broken": 0.057,
+   "net_per_1000": 69.9
+  },
+  {
+   "deviate_ambiguous": 0.0,
+   "deviate_other": 0.99,
+   "authored_right": 0.86,
+   "authored_wrong": 0.14,
+   "mined_fixed": 0.548,
+   "mined_broken": 0.057,
+   "net_per_1000": 69.9
+  },
+  {
+   "deviate_ambiguous": 0.0,
+   "deviate_other": 1.01,
+   "authored_right": 0.86,
+   "authored_wrong": 0.14,
+   "mined_fixed": 0.548,
+   "mined_broken": 0.057,
+   "net_per_1000": 69.8
+  },
+  {
+   "deviate_ambiguous": 0.5,
+   "deviate_other": 0.9,
+   "authored_right": 0.863,
+   "authored_wrong": 0.137,
+   "mined_fixed": 0.521,
+   "mined_broken": 0.049,
+   "net_per_1000": 70.4
+  },
+  {
+   "deviate_ambiguous": 0.5,
+   "deviate_other": 0.95,
+   "authored_right": 0.86,
+   "authored_wrong": 0.14,
+   "mined_fixed": 0.521,
+   "mined_broken": 0.049,
+   "net_per_1000": 70.4
+  },
+  {
+   "deviate_ambiguous": 0.5,
+   "deviate_other": 0.99,
+   "authored_right": 0.856,
+   "authored_wrong": 0.144,
+   "mined_fixed": 0.521,
+   "mined_broken": 0.049,
+   "net_per_1000": 70.4
+  },
+  {
+   "deviate_ambiguous": 0.5,
+   "deviate_other": 1.01,
+   "authored_right": 0.856,
+   "authored_wrong": 0.144,
+   "mined_fixed": 0.52,
+   "mined_broken": 0.049,
+   "net_per_1000": 70.3
+  },
+  {
+   "deviate_ambiguous": 0.7,
+   "deviate_other": 0.9,
+   "authored_right": 0.828,
+   "authored_wrong": 0.172,
+   "mined_fixed": 0.385,
+   "mined_broken": 0.018,
+   "net_per_1000": 66.4
+  },
+  {
+   "deviate_ambiguous": 0.7,
+   "deviate_other": 0.95,
+   "authored_right": 0.825,
+   "authored_wrong": 0.175,
+   "mined_fixed": 0.384,
+   "mined_broken": 0.018,
+   "net_per_1000": 66.4
+  },
+  {
+   "deviate_ambiguous": 0.7,
+   "deviate_other": 0.99,
+   "authored_right": 0.821,
+   "authored_wrong": 0.179,
+   "mined_fixed": 0.384,
+   "mined_broken": 0.018,
+   "net_per_1000": 66.4
+  },
+  {
+   "deviate_ambiguous": 0.7,
+   "deviate_other": 1.01,
+   "authored_right": 0.821,
+   "authored_wrong": 0.179,
+   "mined_fixed": 0.384,
+   "mined_broken": 0.018,
+   "net_per_1000": 66.3
+  },
+  {
+   "deviate_ambiguous": 0.8,
+   "deviate_other": 0.9,
+   "authored_right": 0.793,
+   "authored_wrong": 0.207,
+   "mined_fixed": 0.324,
+   "mined_broken": 0.012,
+   "net_per_1000": 58.6
+  },
+  {
+   "deviate_ambiguous": 0.8,
+   "deviate_other": 0.95,
+   "authored_right": 0.789,
+   "authored_wrong": 0.211,
+   "mined_fixed": 0.324,
+   "mined_broken": 0.012,
+   "net_per_1000": 58.5
+  },
+  {
+   "deviate_ambiguous": 0.8,
+   "deviate_other": 0.99,
+   "authored_right": 0.786,
+   "authored_wrong": 0.214,
+   "mined_fixed": 0.323,
+   "mined_broken": 0.012,
+   "net_per_1000": 58.5
+  },
+  {
+   "deviate_ambiguous": 0.8,
+   "deviate_other": 1.01,
+   "authored_right": 0.786,
+   "authored_wrong": 0.214,
+   "mined_fixed": 0.323,
+   "mined_broken": 0.012,
+   "net_per_1000": 58.5
+  },
+  {
+   "deviate_ambiguous": 0.9,
+   "deviate_other": 0.9,
+   "authored_right": 0.747,
+   "authored_wrong": 0.253,
+   "mined_fixed": 0.249,
+   "mined_broken": 0.008,
+   "net_per_1000": 45.9
+  },
+  {
+   "deviate_ambiguous": 0.9,
+   "deviate_other": 0.95,
+   "authored_right": 0.744,
+   "authored_wrong": 0.256,
+   "mined_fixed": 0.249,
+   "mined_broken": 0.008,
+   "net_per_1000": 45.9
+  },
+  {
+   "deviate_ambiguous": 0.9,
+   "deviate_other": 0.99,
+   "authored_right": 0.74,
+   "authored_wrong": 0.26,
+   "mined_fixed": 0.248,
+   "mined_broken": 0.008,
+   "net_per_1000": 45.9
+  },
+  {
+   "deviate_ambiguous": 0.9,
+   "deviate_other": 1.01,
+   "authored_right": 0.74,
+   "authored_wrong": 0.26,
+   "mined_fixed": 0.248,
+   "mined_broken": 0.008,
+   "net_per_1000": 45.8
+  },
+  {
+   "deviate_ambiguous": 0.95,
+   "deviate_other": 0.9,
+   "authored_right": 0.726,
+   "authored_wrong": 0.274,
+   "mined_fixed": 0.202,
+   "mined_broken": 0.007,
+   "net_per_1000": 37.0
+  },
+  {
+   "deviate_ambiguous": 0.95,
+   "deviate_other": 0.95,
+   "authored_right": 0.723,
+   "authored_wrong": 0.277,
+   "mined_fixed": 0.202,
+   "mined_broken": 0.007,
+   "net_per_1000": 37.0
+  },
+  {
+   "deviate_ambiguous": 0.95,
+   "deviate_other": 0.99,
+   "authored_right": 0.719,
+   "authored_wrong": 0.281,
+   "mined_fixed": 0.202,
+   "mined_broken": 0.007,
+   "net_per_1000": 37.0
+  },
+  {
+   "deviate_ambiguous": 0.95,
+   "deviate_other": 1.01,
+   "authored_right": 0.719,
+   "authored_wrong": 0.281,
+   "mined_fixed": 0.201,
+   "mined_broken": 0.007,
+   "net_per_1000": 36.9
+  },
+  {
+   "deviate_ambiguous": 1.01,
+   "deviate_other": 0.9,
+   "authored_right": 0.519,
+   "authored_wrong": 0.481,
+   "mined_fixed": 0.024,
+   "mined_broken": 0.006,
+   "net_per_1000": 0.6
+  },
+  {
+   "deviate_ambiguous": 1.01,
+   "deviate_other": 0.95,
+   "authored_right": 0.516,
+   "authored_wrong": 0.484,
+   "mined_fixed": 0.024,
+   "mined_broken": 0.006,
+   "net_per_1000": 0.6
+  },
+  {
+   "deviate_ambiguous": 1.01,
+   "deviate_other": 0.99,
+   "authored_right": 0.512,
+   "authored_wrong": 0.488,
+   "mined_fixed": 0.023,
+   "mined_broken": 0.005,
+   "net_per_1000": 0.6
+  },
+  {
+   "deviate_ambiguous": 1.01,
+   "deviate_other": 1.01,
+   "authored_right": 0.512,
+   "authored_wrong": 0.488,
+   "mined_fixed": 0.023,
+   "mined_broken": 0.005,
+   "net_per_1000": 0.5
+  }
+ ],
+ "authored_plain_tts": {
+  "right": 143,
+  "wrong": 142
+ },
+ "authored_diacritizer_alone": {
+  "right": 247,
+  "wrong": 38
+ },
+ "mined_diacritizer_agrees": {
+  "default": 0.941,
+  "rare/vowel": 0.587,
+  "rare/shadda": 0.453
+ }
+}

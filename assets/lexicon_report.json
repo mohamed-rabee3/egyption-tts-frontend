@@ -1,0 +1,14 @@
+{
+ "tokens": 25878846,
+ "skeletons": 516616,
+ "marked_skeletons": 498064,
+ "known": 314447,
+ "ambiguous": 23001,
+ "ambiguous_token_share": 0.164,
+ "skeletons_under_5_uses": 359783,
+ "skeletons_under_20_uses": 454594,
+ "skeletons_under_100_uses": 497325,
+ "token_share_under_5_uses": 0.0236,
+ "token_share_under_20_uses": 0.0575,
+ "token_share_under_100_uses": 0.1284
+}
