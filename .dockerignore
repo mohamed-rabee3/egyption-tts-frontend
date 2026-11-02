@@ -1,0 +1,17 @@
+# secrets
+.env
+*.env
+# local environments and caches
+.venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+# not needed at run time
+build/
+train/
+eval/
+tests/
+*.md
+Dockerfile
+.dockerignore
