@@ -159,3 +159,41 @@ CPU latency, whole call per sentence (showcase sentences, `build/bench_cpu.py`):
 
 Tashkeel-v4 and models fine-tuned from it are under the Tashkeel licence (separate
 licence held). The training text is the TTS training transcripts.
+
+## HTTP API
+
+`api/` is a FastAPI service around `Frontend`, tuned to the machine it runs on.
+
+```bash
+uv pip install -r requirements-api.txt
+python -m api                         # 0.0.0.0:8080, Swagger UI at /docs
+curl -s localhost:8080/diacritize -H 'content-type: application/json' \
+     -d '{"text":"البلكونة اتملت حمام!"}'
+```
+
+| Endpoint | |
+|---|---|
+| `POST /diacritize` | `{"text": "...", "decisions": true}` → `text` (for the TTS), `decisions`, `unsure`, `marked`, `cached`, `ms` |
+| `POST /diacritize/batch` | `{"texts": [...]}`: the texts run in parallel across the pool |
+| `GET /health`, `GET /ready` | liveness (answers while the model loads), readiness (503 until it's warm) |
+| `GET /stats`, `GET /config` | counters, latency and cache stats; the resolved settings |
+
+How it uses the machine: one process loads one model, and a pool of worker threads
+calls it concurrently. ONNX Runtime releases the GIL inside `run()`, which is 97% of a
+request, so threads scale almost linearly with no second copy of the 684 MB model.
+Don't run more than one uvicorn worker: each one would load its own copy and they would
+compete for the same cores. The defaults come from the CPU budget (affinity capped by
+the cgroup quota, so `docker --cpus` is respected): 2 ORT threads per run and one
+worker per core. Requests beyond `workers + queue` wait up to `EGY_QUEUE_TIMEOUT`, then
+get a 503 with `Retry-After`.
+
+Measured on 6 cores (Xeon E5-2683 v4, fp32): 47 sentences/s in-process with p50 109 ms;
+over HTTP with the load generator on the same box, ~34/s; a single request takes
+45–90 ms. A repeated sentence is served from the LRU cache in under 1 ms.
+
+Settings (environment or `.env`): `EGY_WORKERS`, `EGY_ORT_THREADS`, `EGY_QUEUE`,
+`EGY_QUEUE_TIMEOUT`, `EGY_CACHE`, `EGY_INT8`, `EGY_MODEL_DIR`, `EGY_RARE_USES`,
+`EGY_DEVIATE_AMBIGUOUS`, `EGY_DEVIATE_OTHER`, `EGY_MAX_CHARS`, `EGY_MAX_BATCH`,
+`EGY_HOST`, `EGY_PORT`, `EGY_CORS`, `EGY_LOG`. For a latency-first service with few
+concurrent users, use `EGY_ORT_THREADS=3`. Keep fp32: with `EGY_INT8=1` the
+confidences fall below the policy thresholds, and words that fp32 marks are left plain.
